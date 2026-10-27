@@ -2,8 +2,8 @@
 *
 
 # Keep only the pz4 folder tracked
-!pz4/
-!pz4/**
+!pz4_selenium/
+!pz4_selenium/**
 
 # Keep the ignore file itself tracked
 !.gitignore
