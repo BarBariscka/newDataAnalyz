@@ -1,0 +1,8 @@
+[
+  { "percent": 10,   "of": 200, "expected": 20 },
+  { "percent": 25,   "of": 80,  "expected": 20 },
+  { "percent": 0,    "of": 500, "expected": 0 },
+  { "percent": 100,  "of": 37,  "expected": 37 },
+  { "percent": 33,   "of": 100, "expected": 33 },
+  { "percent": 5.5,  "of": 200, "expected": 11 }
+]
