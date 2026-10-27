@@ -1,0 +1,9 @@
+# Ignore everything in the repo by default
+*
+
+# Keep only the pz4 folder tracked
+!pz4/
+!pz4/**
+
+# Keep the ignore file itself tracked
+!.gitignore
