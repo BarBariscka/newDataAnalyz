@@ -1,0 +1,2 @@
+selenium>=4.21
+pytest>=8.0
